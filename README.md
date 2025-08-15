@@ -70,3 +70,9 @@ You can then interact with the system by typing your queries into the console.
 - `memory.md`: Stores a summarized log of responses from each agent, providing a memory of past actions and outcomes.
 - `chat.md`: A log of the conversation between the user and the system.
 
+## References
+
+This project utilizes and was inspired by the following open-source projects:
+
+- **MCP Sandbox**: A sandbox environment for safely executing Python code, used by the `python_code_runner` agent. The original project can be found at [johanli233/mcp-sandbox](https://github.com/johanli233/mcp-sandbox).
+- **DeepGraph for python-bitcoin-utils**: The knowledge graph capabilities were inspired by the DeepGraph analysis of the `python-bitcoin-utils` repository. More details can be found at [DeepGraph](https://www.deepgraph.co/karask/python-bitcoin-utils).
