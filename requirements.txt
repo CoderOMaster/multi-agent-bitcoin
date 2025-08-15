@@ -1,0 +1,6 @@
+transformers>=4.37.2
+torch>=2.0.0
+numpy
+groq
+python-dotenv
+pydantic
